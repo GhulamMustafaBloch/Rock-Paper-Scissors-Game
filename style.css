@@ -45,3 +45,14 @@ h1{
 #user_score, #comp_score{
     font-size: 4rem;
 }
+.msg_container{
+    margin-top: 5rem;
+}
+#msg{
+    background-color: #081b31;
+    color: #fff;
+    font-size: 2rem;
+    display: inline-block;
+    padding: 1rem;
+    border-radius: .625rem;
+}
